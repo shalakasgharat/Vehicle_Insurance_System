@@ -141,8 +141,4 @@ Search module allows the user and admin to search the user details based on the 
 
 > NOTE: password - admin@123
 
-The server will start on port 8080. Open the browser and type the url `http://localhost:8037/vis` to access the application.
-
-For More Awesome Projects Subscribe to My Youtube channel [B2 Tech](https://www.youtube.com/b2tech) 
-
-If you find any difficulty in installing the application then reach me @ [Bushan Sirgur](http://BushanSirgur.in)
+The server will start on port 8080. Open the browser and type the url `http://localhost:8080/vis-0.0.1-SNAPSHOT/login` to access the application.
